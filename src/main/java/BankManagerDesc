@@ -1,0 +1,11 @@
+We would like you to write a simple financial application.
+This application should provide an API to register a user, each user can have multiple
+account connected to their user.
+
+You should also provide another API to transfer money between accounts based on account numbers.
+
+In addition, we want to keep track of every money transfers including withdraw account, deposit account,
+transaction time, and the transferred amount.
+
+The application’s currency is IRR (Rial) and it does not need to support other currencies.
+You should deliver an API for reporting transactions based on time and account number.
